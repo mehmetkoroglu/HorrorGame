@@ -1,4 +1,0 @@
-repository "Graduation Project 2@mkoroglu334@cloud"
-  path "/"
-    br "/main"
-    co "/main"
